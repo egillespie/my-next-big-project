@@ -1,11 +1,9 @@
 ---
-layout: default
 title: "My Next Big Project"
 permalink: /
+layout: default
 ---
 
 # My Next Big Project
 
-Welcome to my website. There's not much here now, but come back later
-and maybe there will be!
-
+This site is under construction.
